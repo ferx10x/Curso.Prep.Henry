@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 const nuevaString = "Hola segunda";
 =======
-const nuevaString = "Holas fenando";
+const nuevaString = "que vaya a la exo";
 >>>>>>> de24384b41e267622e1c96ccd7ae6d9206da528a
 
 // Crea una variable numérica, puede ser cualquier número:
